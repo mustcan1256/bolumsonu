@@ -1,2 +1,0 @@
-# bolumsonu
-bolum sonu
